@@ -7,16 +7,16 @@ I'm a creative and curious idea translator providing everyday business solutions
 I'm passionate about innovation, empowering underrepresented communities, and leveling the playing field within STEM. I use my skills as a developer to make resources more accessible for those taking a non-traditional path into coding. Checkout our work at [The G|Code House](https://t.co/EmihFhpHY2?amp=1)
 
 
-##### Tech Stack and Skills: 
+#### Tech Stack and Skills: 
 HTML & CSS | JavaScript ES6 | React | Express | Node.js | SQL & NoSQL | MongoDB | GraphQL | PHP 
 
-##### 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
 
 * a pastry shop app
 * practicing data-structures and algorithms
 * drawing & painting, reconnecting with my creative side
 
-##### Find me on the web:
+#### Find me on the web:
 
 * Lets connect: [Linkedin](https://www.linkedin.com/in/raeyabera/)
 
