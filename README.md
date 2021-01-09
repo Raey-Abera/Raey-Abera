@@ -14,7 +14,7 @@ HTML & CSS | JavaScript ES6 | React | Express | Node.js | SQL & NoSQL | MongoDB 
 
 * a pastry shop app
 * practicing data-structures and algorithms
-* drawing & painting, and reconnecting with my creative side
+* drawing & painting, reconnecting with my creative side
 
 ### Find me on the web:
 
