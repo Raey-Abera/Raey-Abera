@@ -12,9 +12,10 @@ HTML & CSS | JavaScript ES6 | React | Express | Node.js | SQL & NoSQL | MongoDB 
 
 ### 🔭 I’m currently working on:
 
-* a pastry shop app
-* practicing data-structures and algorithms
-* drawing & painting, reconnecting with my creative side
+* Websites for local businesses
+* Data Structures and Algorithms
+* Exploring Accessibility 
+* Exploring Systems Design 
 
 ### Find me on the web:
 
