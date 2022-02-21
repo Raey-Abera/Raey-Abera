@@ -21,9 +21,6 @@ HTML & CSS | JavaScript ES6 | React | Express | Node.js | SQL & NoSQL | MongoDB 
 
 * Lets connect: [Linkedin](https://www.linkedin.com/in/raeyabera/)
 
-* Freelancing: [Portfolio](https://raeyabera.com/)
-
-
 <!--
 **Raey-Abera/Raey-Abera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
